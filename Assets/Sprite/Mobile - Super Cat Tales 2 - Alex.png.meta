@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: 70fa19c3f13fe8943abaf1f81dcc4367
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f2298eac91b9247a38bd4fcdd2e22e
+      internalID: 1562638860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b04a50d99c00c54bb877546454a002e
+      internalID: -1914617929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca256a732037dd4f9c63f1a5fd3f2dc
+      internalID: 1934880922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cecf13eadee1e44b4ddd899d853c3c
+      internalID: -1997302094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a508c3402638f4dbba1c2b7bca5be3
+      internalID: 852395783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb48b1276091134fb99d5929ddcd506
+      internalID: -1640004976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed9337f7696e5149ba9dfb48896467a
+      internalID: -1467498180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 151
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324baa19bf636e4695b6cebaf785119
+      internalID: 78632507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6228ff6d9257934eb2761dea2e792af
+      internalID: 824640274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddcb8d5b872ecd44828934e9d9a93b2
+      internalID: -1939399659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 153
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66f999f88488c4d9419a3af8ebbdf0
+      internalID: 1872402135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e1445bf94869409df2d9028b9d4b7
+      internalID: 1275627798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691de36497e463a45a998e5a5de12a4c
+      internalID: -193908781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb61f1ac14a8348b26b2fb7a6e0912
+      internalID: 827344499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97edf6b71b55041bafaf2f2d057f91
+      internalID: 708792136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96379dacde757be4181eeb89bddfa9e0
+      internalID: -1925935394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8987b450a2a24f94162dec66c55bf
+      internalID: 2100354154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7800a59a0d72468260f4ec5816869
+      internalID: 1795044232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7f3df04761e049b485060c599dfc2
+      internalID: 1412769095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879a8741f3b2a849a3ca8302ceabb9c
+      internalID: 1746785609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285e8a1b10936d44b27f9449a90eaaa
+      internalID: 1863735056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb860ecca3d009742a773e83fb1aec6f
+      internalID: 178002505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e3850bea48ddd4d8305385076ea1a5
+      internalID: 1996956225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3162c8a19b63874bb3ee2bea190e3b7
+      internalID: -173170093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ed3962bb62d1246a90db048d0e1cd4
+      internalID: 1763015264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 128
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80ab906b764414384f874359568bcf
+      internalID: 857440724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ec58ef27b6db41bad20bfd024ee95
+      internalID: 2138877253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9663d88aff69fb48bef54e26a2aab32
+      internalID: 1354452655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 107
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c169377655bb549bbadcdfa91f4a7b
+      internalID: -1994516335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 107
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f284c46b704bb243b246043235a722e
+      internalID: 519356356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1a22cda25ae9745a887f6ee1d50eb9
+      internalID: -1777166787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba9242198f1034bb2bf483f4547960
+      internalID: -1818004664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e1d68355a33a46a8bff2c7a40de3c
+      internalID: 885423018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71826644171ea4c42b8268fb65975ae0
+      internalID: 694156662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 72
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8deb06edecb2448b1bc2d545327a7
+      internalID: 373320413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 106
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225768298d6b874b952f45ab2b2a000
+      internalID: -88858570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48cd0d1629071b459750380826e0cef
+      internalID: 810815848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 86
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b0ed50e3ad90419debb2e22626c20
+      internalID: 1167475267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 86
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5371cc6c22a841b0086567ba8356e
+      internalID: -798496341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 86
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186e815267275146a4bfba8f0b39022
+      internalID: -1517894242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 86
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e47d26c61e194ea18284fd20ef759
+      internalID: 1041317420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 86
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ff3671579e83469bc9af06853fe3d
+      internalID: 539618824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 83
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bfb1e70f15e44592ef426ed663384
+      internalID: -456310997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a224e0ebcef8a347a7dd8b1f387ae76
+      internalID: 1390159230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46b8972281a8e469033ebe0c6aca0a
+      internalID: -1367259993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce41ad1ffe78041a70dc1bd0bebe0a
+      internalID: -2115002282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f3d2a6b5178b4db962180d818f372
+      internalID: -1500838591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eedb0c1402ead644a5fc416665a1f61
+      internalID: -136779778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 65
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fcfd8263bd6334e93317795d3a1f59
+      internalID: -1521127702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 60
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77305fb76e2df2c4ca546488eccac1ed
+      internalID: 135136815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee521bd03e5ced49831cee481efc41b
+      internalID: 1112899088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 45
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cc293aa11e6a4fa062a21347074be
+      internalID: -1604756481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b50c0e36916a04eb9854a424730b20
+      internalID: 351390527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead16684ea37da44da2c95b58ca777db
+      internalID: -1392830599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 45
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7203e4c50f3614c8457aa6364b6086
+      internalID: -1235519725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 45
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c80e7e6b69b3d47917e0794585a0fe
+      internalID: -729251380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943ecab4d5468f4ea6f2c44705fc0f6
+      internalID: -99446443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_57
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 45
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e53f8fbd18a044c837701c222449ab
+      internalID: -893679591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 38
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c2e4e1af66e649ac502b273f700c5
+      internalID: -873123656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a760cc95a6730a4f91a9136f285a023
+      internalID: 1451424881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6aa7503439df4aa9c8c0a0ecdeab3
+      internalID: 1542213260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 23
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf6fe7b58e85c49992768daa7d5e7c
+      internalID: 381041508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 23
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f6fa5d11c7f2408b7bd7f2f59703e
+      internalID: 2020518106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 23
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23dd87a0c81d6f4ba39c5408090bcc7
+      internalID: 1937366496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae9f9786d576349beb84bd8e632609
+      internalID: 1394941798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46b169fb50bf1468dbd97671b460f3
+      internalID: -785411079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 23
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07c2e417193bbf4caef6701e61cd0ee
+      internalID: -1847538454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 23
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ac300ab01b06846a7b7edde71b6357
+      internalID: 923088827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5145d52ebf62044bfae2a1c0cdeba6
+      internalID: -658950214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e493514789b742a4606905a42edc5
+      internalID: 118026324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b638723b1346adb4aae42eacc6978ff3
+      internalID: -1635894640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8646f871f1a5cd041b6f79f0d054d773
+      internalID: -2075059297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea7586830cb5141a7a0e68accd745f
+      internalID: 520657733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fa9cb2ede6915439e77b72be3138bb
+      internalID: 1670733856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55b04e80544ea46a7a97e139452293
+      internalID: -154668894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484833419885bc14883fa71cb99a874a
+      internalID: -975220026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bdce09ff7be644880eb3da4af2cdcd
+      internalID: -937653033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57944547641db4ca82a8b96720b97c
+      internalID: -188873760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a33cda246fd484e81dd12e908d3e24
+      internalID: 1217733639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_79
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed22d23c133030e40a8c12c4315e9372
+      internalID: 928849596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f997e3291ad0454283056d813dd3b0e
+      internalID: 1452885504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd34c8e4668084fa2d0267f5469de4
+      internalID: -2091484172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bef0fcce60f643b34e2fea7e85870
+      internalID: -2084056574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c16ef2d5d1b6241867293d566c501c
+      internalID: -812687285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_84
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f58eb5780cfe664cb48ea5b4206761f
+      internalID: -1792487941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_85
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a14a20b8ed6e46b0cda41be2c343e
+      internalID: -132889798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_86
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c09f9f50b0a7d49b8a771de942ea3c
+      internalID: -110659653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bdef84bc84124b86c9ed7e58e51e7
+      internalID: -777828728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1927fdf1c8533734182c7fe6b00e6856
+      internalID: -1330629273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_89
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3716f4e1b4784a845361946ed9640
+      internalID: -521581928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_90
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c50ce28e48c6a4e9b33cdb8b62d417
+      internalID: 1580273618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c842fe1a8f88d5246954a359ca4136dc
+      internalID: -147305802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_92
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6909a67804a7ebd4ebbeec00b7df68c0
+      internalID: -1268614941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_93
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e176afe5abd64f97d1ec73ccc8017
+      internalID: 1702869998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1343448cc417bf24283f9de671fb2eeb
+      internalID: 83838308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cead3595448c8d4c921312db1ffbfe0
+      internalID: -1917814026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_96
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17c6a9c75853b41917eee38e1b1081
+      internalID: 840878396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907a5829b89cf943a4c30bf2de92359
+      internalID: -1052339865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_98
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e7e8fa57cbe74499e9979e9a038f9
+      internalID: 1141523681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Super Cat Tales 2 - Alex_99
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95baa71ae662ac94eb44842e05c43e76
+      internalID: 1450149325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Super Cat Tales 2 - Alex_0: 1562638860
+      Mobile - Super Cat Tales 2 - Alex_1: -1914617929
+      Mobile - Super Cat Tales 2 - Alex_10: 1872402135
+      Mobile - Super Cat Tales 2 - Alex_11: 1275627798
+      Mobile - Super Cat Tales 2 - Alex_12: -193908781
+      Mobile - Super Cat Tales 2 - Alex_13: 827344499
+      Mobile - Super Cat Tales 2 - Alex_14: 708792136
+      Mobile - Super Cat Tales 2 - Alex_15: -1925935394
+      Mobile - Super Cat Tales 2 - Alex_16: 2100354154
+      Mobile - Super Cat Tales 2 - Alex_17: 1795044232
+      Mobile - Super Cat Tales 2 - Alex_18: 1412769095
+      Mobile - Super Cat Tales 2 - Alex_19: 1746785609
+      Mobile - Super Cat Tales 2 - Alex_2: 1934880922
+      Mobile - Super Cat Tales 2 - Alex_20: 1863735056
+      Mobile - Super Cat Tales 2 - Alex_21: 178002505
+      Mobile - Super Cat Tales 2 - Alex_22: 1996956225
+      Mobile - Super Cat Tales 2 - Alex_23: -173170093
+      Mobile - Super Cat Tales 2 - Alex_24: 1763015264
+      Mobile - Super Cat Tales 2 - Alex_25: 857440724
+      Mobile - Super Cat Tales 2 - Alex_26: 2138877253
+      Mobile - Super Cat Tales 2 - Alex_27: 1354452655
+      Mobile - Super Cat Tales 2 - Alex_28: -1994516335
+      Mobile - Super Cat Tales 2 - Alex_29: 519356356
+      Mobile - Super Cat Tales 2 - Alex_3: -1997302094
+      Mobile - Super Cat Tales 2 - Alex_30: -1777166787
+      Mobile - Super Cat Tales 2 - Alex_31: -1818004664
+      Mobile - Super Cat Tales 2 - Alex_32: 885423018
+      Mobile - Super Cat Tales 2 - Alex_33: 694156662
+      Mobile - Super Cat Tales 2 - Alex_34: 373320413
+      Mobile - Super Cat Tales 2 - Alex_35: -88858570
+      Mobile - Super Cat Tales 2 - Alex_36: 810815848
+      Mobile - Super Cat Tales 2 - Alex_37: 1167475267
+      Mobile - Super Cat Tales 2 - Alex_38: -798496341
+      Mobile - Super Cat Tales 2 - Alex_39: -1517894242
+      Mobile - Super Cat Tales 2 - Alex_4: 852395783
+      Mobile - Super Cat Tales 2 - Alex_40: 1041317420
+      Mobile - Super Cat Tales 2 - Alex_41: 539618824
+      Mobile - Super Cat Tales 2 - Alex_42: -456310997
+      Mobile - Super Cat Tales 2 - Alex_43: 1390159230
+      Mobile - Super Cat Tales 2 - Alex_44: -1367259993
+      Mobile - Super Cat Tales 2 - Alex_45: -2115002282
+      Mobile - Super Cat Tales 2 - Alex_46: -1500838591
+      Mobile - Super Cat Tales 2 - Alex_47: -136779778
+      Mobile - Super Cat Tales 2 - Alex_48: -1521127702
+      Mobile - Super Cat Tales 2 - Alex_49: 135136815
+      Mobile - Super Cat Tales 2 - Alex_5: -1640004976
+      Mobile - Super Cat Tales 2 - Alex_50: 1112899088
+      Mobile - Super Cat Tales 2 - Alex_51: -1604756481
+      Mobile - Super Cat Tales 2 - Alex_52: 351390527
+      Mobile - Super Cat Tales 2 - Alex_53: -1392830599
+      Mobile - Super Cat Tales 2 - Alex_54: -1235519725
+      Mobile - Super Cat Tales 2 - Alex_55: -729251380
+      Mobile - Super Cat Tales 2 - Alex_56: -99446443
+      Mobile - Super Cat Tales 2 - Alex_57: -893679591
+      Mobile - Super Cat Tales 2 - Alex_58: -873123656
+      Mobile - Super Cat Tales 2 - Alex_59: 1451424881
+      Mobile - Super Cat Tales 2 - Alex_6: -1467498180
+      Mobile - Super Cat Tales 2 - Alex_60: 1542213260
+      Mobile - Super Cat Tales 2 - Alex_61: 381041508
+      Mobile - Super Cat Tales 2 - Alex_62: 2020518106
+      Mobile - Super Cat Tales 2 - Alex_63: 1937366496
+      Mobile - Super Cat Tales 2 - Alex_64: 1394941798
+      Mobile - Super Cat Tales 2 - Alex_65: -785411079
+      Mobile - Super Cat Tales 2 - Alex_66: -1847538454
+      Mobile - Super Cat Tales 2 - Alex_67: 923088827
+      Mobile - Super Cat Tales 2 - Alex_68: -658950214
+      Mobile - Super Cat Tales 2 - Alex_69: 118026324
+      Mobile - Super Cat Tales 2 - Alex_7: 78632507
+      Mobile - Super Cat Tales 2 - Alex_70: -1635894640
+      Mobile - Super Cat Tales 2 - Alex_71: -2075059297
+      Mobile - Super Cat Tales 2 - Alex_72: 520657733
+      Mobile - Super Cat Tales 2 - Alex_73: 1670733856
+      Mobile - Super Cat Tales 2 - Alex_74: -154668894
+      Mobile - Super Cat Tales 2 - Alex_75: -975220026
+      Mobile - Super Cat Tales 2 - Alex_76: -937653033
+      Mobile - Super Cat Tales 2 - Alex_77: -188873760
+      Mobile - Super Cat Tales 2 - Alex_78: 1217733639
+      Mobile - Super Cat Tales 2 - Alex_79: 928849596
+      Mobile - Super Cat Tales 2 - Alex_8: 824640274
+      Mobile - Super Cat Tales 2 - Alex_80: 1452885504
+      Mobile - Super Cat Tales 2 - Alex_81: -2091484172
+      Mobile - Super Cat Tales 2 - Alex_82: -2084056574
+      Mobile - Super Cat Tales 2 - Alex_83: -812687285
+      Mobile - Super Cat Tales 2 - Alex_84: -1792487941
+      Mobile - Super Cat Tales 2 - Alex_85: -132889798
+      Mobile - Super Cat Tales 2 - Alex_86: -110659653
+      Mobile - Super Cat Tales 2 - Alex_87: -777828728
+      Mobile - Super Cat Tales 2 - Alex_88: -1330629273
+      Mobile - Super Cat Tales 2 - Alex_89: -521581928
+      Mobile - Super Cat Tales 2 - Alex_9: -1939399659
+      Mobile - Super Cat Tales 2 - Alex_90: 1580273618
+      Mobile - Super Cat Tales 2 - Alex_91: -147305802
+      Mobile - Super Cat Tales 2 - Alex_92: -1268614941
+      Mobile - Super Cat Tales 2 - Alex_93: 1702869998
+      Mobile - Super Cat Tales 2 - Alex_94: 83838308
+      Mobile - Super Cat Tales 2 - Alex_95: -1917814026
+      Mobile - Super Cat Tales 2 - Alex_96: 840878396
+      Mobile - Super Cat Tales 2 - Alex_97: -1052339865
+      Mobile - Super Cat Tales 2 - Alex_98: 1141523681
+      Mobile - Super Cat Tales 2 - Alex_99: 680057261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

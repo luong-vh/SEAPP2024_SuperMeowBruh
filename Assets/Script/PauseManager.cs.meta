@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea040837b30e73343a3265e7cccdef43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseMenu: {instanceID: 0}
+  - onMusic: {fileID: 16980933, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - offMusic: {fileID: 677986595, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - onSfx: {fileID: 1745636697, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - offSfx: {fileID: 1729259817, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - onMusicPressed: {fileID: -443109449, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - offMusicPressed: {fileID: -2008808937, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - onSfxPressed: {fileID: 1292888674, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - offSfxPressed: {fileID: 1860114425, guid: 17092d41b32396b42a4142662872b528, type: 3}
+  - music: {instanceID: 0}
+  - sfx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
