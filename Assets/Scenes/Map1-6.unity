@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -996,8 +995,8 @@ PolygonCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.4954701, y: 0.0017005072}
-    oldSize: {x: 1.25, y: 1.125}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 1.375, y: 0.875}
     newSize: {x: 1.25, y: 1.125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1051,7 +1050,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1313839621
-  m_SortingLayer: 3
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: -1270955635, guid: 0bb89b21bfe7d0a46ba5136a0f76f95f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1427,7 +1426,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -229938545
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4fb420f5a32c5a24890c1d8010a3a1de, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2789,6 +2788,10 @@ PrefabInstance:
       propertyPath: m_fontStyle
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 4952320932068833309, guid: b5459e6f2bffbdc46b0e983d8d1333e2, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 939697309
+      objectReference: {fileID: 0}
     - target: {fileID: 6128029997120587855, guid: b5459e6f2bffbdc46b0e983d8d1333e2, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2872,6 +2875,14 @@ PrefabInstance:
     - target: {fileID: 8535481835394669971, guid: b5459e6f2bffbdc46b0e983d8d1333e2, type: 3}
       propertyPath: m_Name
       value: Tutorial Content
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632818648388503019, guid: b5459e6f2bffbdc46b0e983d8d1333e2, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632818648388503019, guid: b5459e6f2bffbdc46b0e983d8d1333e2, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -662592221
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
