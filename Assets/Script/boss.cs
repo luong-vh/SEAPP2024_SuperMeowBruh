@@ -94,7 +94,8 @@ public class boss : MonoBehaviour
     }
     IEnumerator death()
     {
-        pos= new Vector3(transform.position.x, transform.position.y-2f, transform.position.z);
+        bossvideo.Instance.PlayEnd();
+        pos = new Vector3(transform.position.x, transform.position.y-2f, transform.position.z);
         speed = 7;
         yield return new WaitForSeconds(0.3f);
         AudioManager.Instance.GetAudioSourceReference().mute = true;
@@ -104,7 +105,7 @@ public class boss : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
         yield return new WaitForSeconds(0.3f);
 
-        bossvideo.Instance.PlayEnd();
+       
         // Call the Check() function after the delay
         Destroy(gameObject);
        
