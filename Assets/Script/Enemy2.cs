@@ -39,7 +39,13 @@ public class Enemy2 : MonoBehaviour
         
         index ++;
         if(index==count) index = 0;
+        if ( points[index].position.x > pos.x)
+        {
+            this.transform.eulerAngles = new Vector3(0, 180, 0);
+        }
+        else this.transform.eulerAngles = new Vector3(0, 0, 0);
         pos = points[index].position;
+       
     }
     IEnumerator death()
     {
