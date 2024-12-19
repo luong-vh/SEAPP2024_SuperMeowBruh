@@ -46,8 +46,8 @@ public class AudioManager : MonoBehaviour
         sound s = Array.Find(sfxSounds, x => x.name == name);
         if (s != null)
         {
-            sfxSource.clip = s.clip;
-            sfxSource.Play();
+            
+            sfxSource.PlayOneShot(s.clip);
         }
     }
     public void ToggleMusic()

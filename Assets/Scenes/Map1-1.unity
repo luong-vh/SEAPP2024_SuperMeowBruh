@@ -579,6 +579,10 @@ PrefabInstance:
       propertyPath: mCam
       value: 
       objectReference: {fileID: 1677473846}
+    - target: {fileID: 8250259733602593850, guid: 4b3a1e62102a24343b18975c59364b69, type: 3}
+      propertyPath: WhatIsGround.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9176764785512115943, guid: 4b3a1e62102a24343b18975c59364b69, type: 3}
       propertyPath: m_Name
       value: Player
